@@ -1,0 +1,6 @@
+"id","name","last_name","avatar","email","password","deleted","token"
+1,"xavier","martinez",NULL,"martinez@gmail.com",NULL,False,NULL
+2,"carlos","duarte",NULL,"duarte@gmail.com",NULL,False,NULL
+3,"Juan","perez",NULL,"perezjuan@gmail.com","12345l",False,"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiSnVhbiBQZXJleiIsImF2YXRhciI6bnVsbCwiZW1haWwiOiJwZXJlemp1YW5AZ21haWwuY29tIiwiaWF0IjoxNjgzOTM5MTU1fQ.m7Z6yoq2pO8P5QH4W26mB7VdhPg8FVAoQJOcuT0B6GQ"
+4,"niko","gonzalez",NULL,"gonzalez123@gmail.com","12345l",False,"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoibmlrbyIsImF2YXRhciI6bnVsbCwiZW1haWwiOiJnb256YWxlejEyM0BnbWFpbC5jb20iLCJpYXQiOjE2ODQ0NTUxNTZ9.Jmmhmb0QqhyQa_aTIt2qdv-203oiphwZMqczeREif9Q"
+5,"marcos","perez",NULL,"perez@gmail.com",NULL,False,NULL
