@@ -8,27 +8,22 @@ const ThemeModel = sequelize.define('Theme', {
         primaryKey: true,
         autoIncrement: true
     },
-
     create_date: {
         type: DataTypes.DATE,
         allowNull: true
     },
-
     name: {
         type: DataTypes.STRING,
         allowNull: true
     },
-
     description: {
         type: DataTypes.STRING,
         allowNull: true
     },
-
     keywords: {
         type: DataTypes.STRING,
         allowNull: true
     },
-
     owner_user_id: {
         type: DataTypes.INTEGER,
         allowNull: true
